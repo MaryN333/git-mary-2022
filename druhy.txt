@@ -2,3 +2,4 @@ druhy
 druhy radek druheho souboru
 treti radek
 pridani komentare
+prvni pokusy commit rrrrrrr
