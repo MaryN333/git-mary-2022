@@ -12,3 +12,4 @@ ta taky neco dela, ale neco jineho
 oprava chyby
 }
 posledni radek
+a tady pridan komentar
