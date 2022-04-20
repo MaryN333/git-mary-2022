@@ -4,4 +4,8 @@ druhy radek druheho souboru
 treti radek
 pridani komentare
 prvni pokusy commit rrrrrrr
+<<<<<<< HEAD
 druhy pokusny commit eee
+=======
+posledni radek doplnime
+>>>>>>> refs/remotes/origin/master
