@@ -7,4 +7,5 @@ pridani komentare
 prvni pokusy commit rrrrrrr
 druhy pokusny commit eee
 posledni radek doplnime
+17:30 zmena posl radku na pocitaci
 
