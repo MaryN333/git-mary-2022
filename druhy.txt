@@ -7,4 +7,4 @@ pridani komentare
 prvni pokusy commit rrrrrrr
 druhy pokusny commit eee
 posledni radek doplnime
-
+17:35 zmena na github, posledni radek
