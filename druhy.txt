@@ -1,3 +1,4 @@
+komentar na prvi radku
 zmena prvniho radku
 druhy
 druhy radek druheho souboru
