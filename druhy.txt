@@ -1,3 +1,4 @@
+organizace konfliktu na github
 zmena prvniho radku
 druhy
 druhy radek druheho souboru
