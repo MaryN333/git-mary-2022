@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 prvni zmena
+=======
+prvni zmena
+druha zmena
+treti zmena
+>>>>>>> druhavetev
