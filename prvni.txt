@@ -1,1 +1,20 @@
+<<<<<<< HEAD
 
+=======
+kdf
+lkcvjzkcv
+dkl
+clv
+llo
+zmena kvuli novemu tokenu
+zde je nova funkce {
+ktera neco dela
+}
+zde je druha funkce{
+ta taky neco dela, ale neco jineho
+oprava chyby
+}
+pridani nove vetvi a tam novy soubor
+druha zmena v prvni. novavetev
+oprava chyby
+>>>>>>> novavetev
