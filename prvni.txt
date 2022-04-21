@@ -15,3 +15,4 @@ pridani nove vetvi a tam novy soubor
 druha zmena v prvni. novavetev
 oprava chyby
 zmena 1
+zmena 2
