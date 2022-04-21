@@ -1,18 +1,1 @@
-zacatek radku, posl zmena na pocitaci
-kdf
-lkcvjzkcv
-dkl
-clv
-llo
-zmena kvuli novemu tokenu
-zde je nova funkce {
-ktera neco dela
-}
-zde je druha funkce{
-ta taky neco dela, ale neco jineho
-oprava chyby
-}
-posledni radek
-a tady bude konflikt
-a tady pridan komentar
-zmena posl radku na github
+
