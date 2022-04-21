@@ -20,3 +20,4 @@ zmena 2
 4 zmena
 5 zmena
 6 zmena
+7 zmena
