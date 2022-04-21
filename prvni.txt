@@ -11,3 +11,4 @@ zde je druha funkce{
 ta taky neco dela, ale neco jineho
 oprava chyby
 }
+pridani nove vetvi a tam novy soubor
