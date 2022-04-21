@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 kdf
 lkcvjzkcv
 dkl
@@ -17,4 +14,4 @@ oprava chyby
 pridani nove vetvi a tam novy soubor
 druha zmena v prvni. novavetev
 oprava chyby
->>>>>>> novavetev
+zmena 1
