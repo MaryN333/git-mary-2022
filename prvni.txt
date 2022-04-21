@@ -21,3 +21,4 @@ zmena 2
 5 zmena
 6 zmena
 7 zmena
+desktop
